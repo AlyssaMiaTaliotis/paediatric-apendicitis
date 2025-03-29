@@ -2,3 +2,5 @@ ucimlrepo
 numpy
 pandas
 scikit-learn
+openpyxl
+matplotlib
