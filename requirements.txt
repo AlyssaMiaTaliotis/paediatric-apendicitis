@@ -1,7 +1,13 @@
 ucimlrepo
-numpy
+numpy<2.0.0
 pandas
 scikit-learn
 openpyxl
 matplotlib
 ipykernel
+opencv-python
+jupyterlab
+progressbar2
+torch
+torchvision
+imgcrop
