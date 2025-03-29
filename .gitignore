@@ -5,4 +5,7 @@
 data/US_Pictures
 /US_Pictures
 
-# Files
+.virtual_documents/
+**/.ipynb_checkpoints
+/*.ipynb.layout
+*.ipynb.layout
