@@ -10,6 +10,7 @@ data/US_Pictures
 /US_Pictures_Filled
 /data/US_Pictures_Clean
 /US_Pictures_Clean
+/notebooks/Deepfill_Temp_Dir
 
 .virtual_documents/
 **/.ipynb_checkpoints
