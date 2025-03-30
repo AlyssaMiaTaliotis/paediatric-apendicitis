@@ -11,3 +11,8 @@ progressbar2
 torch
 torchvision
 imgcrop
+jupyter
+notebook
+tqdm
+seaborn
+missingno

@@ -1,9 +1,15 @@
 .DS_Store
 
 # Folders
+/src/__pycache__
 /venv
+/apenv
 data/US_Pictures
 /US_Pictures
+/data/US_Pictures_Filled
+/US_Pictures_Filled
+/data/US_Pictures_Clean
+/US_Pictures_Clean
 
 .virtual_documents/
 **/.ipynb_checkpoints
