@@ -17,3 +17,4 @@ data/US_Pictures
 **/.ipynb_checkpoints
 /*.ipynb.layout
 *.ipynb.layout
+/data/app_data_scaled_one_to_many.pkl
