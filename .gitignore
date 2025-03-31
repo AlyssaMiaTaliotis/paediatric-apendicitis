@@ -2,6 +2,7 @@
 
 # Folders
 /src/__pycache__
+/DeepFill/__pycache__
 /venv
 /apenv
 data/US_Pictures
